@@ -14,10 +14,10 @@ This is list of all my Merge Requests(open or merged or closed) to the different
 
 ## Inkscape
 
-- [To Fix overlapping info box in measurement tool](https://gitlab.com/inkscape/inkscape/-/merge_requests/4728).
+- [To Fix overlapping info box in measurement tool](https://gitlab.com/inkscape/inkscape/-/merge_requests/4728) [Merged].
 - [To enlarge autosave entry field](https://gitlab.com/inkscape/inkscape/-/merge_requests/4730).
-- [Fixed differences in position of Infobox for different display-unit](https://gitlab.com/inkscape/inkscape/-/merge_requests/4944).
-- [Replacing html tags with an open and close parenthesis](https://gitlab.com/inkscape/inkscape/-/merge_requests/4813).
+- [Fixed differences in position of Infobox for different display-unit](https://gitlab.com/inkscape/inkscape/-/merge_requests/4944) [Merged].
+- [Replacing html tags with an open and close parenthesis](https://gitlab.com/inkscape/inkscape/-/merge_requests/4813) [Merged].
 - [Increased scale_factor to make zoomin faster](https://gitlab.com/inkscape/inkscape/-/merge_requests/4954).
-- [Adding Clone task operation to context menu](https://gitlab.com/inkscape/inkscape/-/merge_requests/5050).
+- [Adding Clone task operation to context menu](https://gitlab.com/inkscape/inkscape/-/merge_requests/5050) [Merged].
 - [Adding color wheel to CMYK tab](https://gitlab.com/inkscape/inkscape/-/merge_requests/5093).
